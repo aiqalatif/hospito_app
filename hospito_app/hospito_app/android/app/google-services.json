@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "409866416034",
+    "project_id": "hospital-app-2-98d48",
+    "storage_bucket": "hospital-app-2-98d48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409866416034:android:8353a9b0a060b18fde0cfb",
+        "android_client_info": {
+          "package_name": "com.example.hospito_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409866416034-b8estkr70r5umcjh6hm0m9mhk0u76883.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC59KfsE1dyj9Ya_MCK8UIzBQQNsocMI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409866416034-b8estkr70r5umcjh6hm0m9mhk0u76883.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
